@@ -1,0 +1,1001 @@
+Order ID,Order Date,Product,Quantity Ordered,Price Each,City,Customer ID
+1,04-11-2024,Smartwatch,1,1045.93,Boston,1072
+2,20-03-2024,Monitor,3,1235.73,New York City,1096
+3,09-02-2024,Tablet,4,80.95,New York City,1095
+4,09-04-2024,Keyboard,4,1012.17,Los Angeles,1047
+5,07-02-2024,Smartwatch,3,1428.29,Chicago,1069
+6,29-01-2024,Camera,4,203.85,Chicago,1058
+7,04-04-2024,Headphones,4,1346.41,New York City,1099
+8,21-01-2024,Smartwatch,4,900.27,San Francisco,1058
+9,18-09-2024,Tablet,4,932.57,Boston,1001
+10,02-11-2024,Keyboard,4,927.16,Boston,1028
+11,29-12-2024,Monitor,1,462.28,New York City,1067
+12,24-03-2024,Tablet,4,1404.1,San Francisco,1064
+13,30-07-2024,Tablet,1,1422.08,Los Angeles,1082
+14,06-05-2024,Headphones,4,945.45,New York City,1025
+15,25-09-2024,Mouse,3,1179.47,New York City,1088
+16,12-12-2024,Keyboard,2,926.14,Boston,1009
+17,17-06-2024,Smartphone,1,736.91,New York City,1052
+18,04-08-2024,Tablet,4,998.01,New York City,1078
+19,08-11-2024,Mouse,3,838.44,New York City,1058
+20,31-10-2024,Smartphone,2,904.26,Boston,1021
+21,25-06-2024,Keyboard,1,1180.07,Los Angeles,1050
+22,23-11-2024,Laptop,2,731.74,Los Angeles,1047
+23,04-09-2024,Camera,3,80.32,New York City,1020
+24,04-01-2024,Mouse,1,262.72,Boston,1021
+25,13-09-2024,Printer,2,669.14,Los Angeles,1099
+26,01-10-2024,Laptop,4,1092.74,Los Angeles,1097
+27,23-02-2024,Camera,1,898.05,Los Angeles,1029
+28,16-07-2024,Headphones,2,982.44,Boston,1024
+29,20-06-2024,Smartwatch,3,729.33,Boston,1027
+30,12-09-2024,Monitor,3,931.3,New York City,1064
+31,23-09-2024,Printer,1,506.95,Chicago,1044
+32,02-12-2024,Headphones,2,715.87,Los Angeles,1067
+33,18-09-2024,Keyboard,1,1121.53,Chicago,1006
+34,29-04-2024,Headphones,1,1310.31,Boston,1048
+35,06-11-2024,Smartwatch,2,661.81,Boston,1008
+36,06-11-2024,Keyboard,2,84.62,Boston,1035
+37,18-04-2024,Printer,4,259.28,Chicago,1082
+38,22-05-2024,Smartwatch,2,50.87,Boston,1000
+39,24-09-2024,Smartphone,3,986.83,New York City,1009
+40,15-09-2024,Monitor,1,511.83,Boston,1035
+41,29-06-2024,Printer,1,822.87,San Francisco,1072
+42,07-02-2024,Smartphone,3,750.05,Chicago,1045
+43,17-09-2024,Camera,2,140.66,San Francisco,1031
+44,05-09-2024,Printer,3,616.83,Boston,1031
+45,01-01-2024,Camera,3,346.43,New York City,1005
+46,24-02-2024,Keyboard,4,639.23,Los Angeles,1047
+47,07-12-2024,Smartphone,3,321.3,Boston,1037
+48,24-11-2024,Monitor,1,1263.87,New York City,1016
+49,15-06-2024,Smartwatch,3,277.81,Chicago,1073
+50,14-09-2024,Tablet,1,1441.96,San Francisco,1026
+51,26-10-2024,Headphones,1,635.54,San Francisco,1053
+52,16-06-2024,Laptop,1,1272.44,San Francisco,1049
+53,23-01-2024,Monitor,2,950.57,Chicago,1034
+54,07-01-2024,Smartphone,4,1108.32,New York City,1084
+55,14-06-2024,Tablet,1,1156.23,Chicago,1024
+56,24-09-2024,Monitor,1,767.17,San Francisco,1027
+57,03-07-2024,Smartphone,2,824.08,Boston,1014
+58,30-01-2024,Mouse,1,780.71,Los Angeles,1003
+59,10-02-2024,Mouse,3,890.33,Chicago,1092
+60,11-07-2024,Camera,3,63.5,Chicago,1072
+61,25-04-2024,Monitor,4,605.36,New York City,1026
+62,06-08-2024,Mouse,1,917.16,New York City,1025
+63,01-11-2024,Smartphone,2,904.63,Chicago,1018
+64,13-06-2024,Camera,3,1193.58,San Francisco,1091
+65,19-12-2024,Smartphone,2,989.41,Los Angeles,1016
+66,03-09-2024,Camera,2,1488.36,New York City,1042
+67,31-08-2024,Monitor,3,440.1,San Francisco,1040
+68,27-08-2024,Tablet,2,551.54,Boston,1041
+69,28-02-2024,Smartwatch,3,588.09,New York City,1049
+70,24-12-2024,Printer,2,709.4,San Francisco,1083
+71,23-06-2024,Tablet,3,1257.28,San Francisco,1039
+72,09-01-2024,Keyboard,1,368.97,Los Angeles,1038
+73,12-04-2024,Smartphone,4,1168.48,Los Angeles,1022
+74,22-01-2024,Keyboard,3,619.86,Boston,1095
+75,08-08-2024,Tablet,3,910.75,San Francisco,1051
+76,23-09-2024,Camera,4,956.16,San Francisco,1046
+77,23-10-2024,Printer,3,571.82,Los Angeles,1062
+78,26-05-2024,Printer,3,778.67,New York City,1096
+79,01-08-2024,Laptop,2,631.29,New York City,1068
+80,12-09-2024,Printer,4,122.32,Chicago,1042
+81,21-05-2024,Smartwatch,1,667,Los Angeles,1047
+82,03-10-2024,Printer,3,164.14,Chicago,1033
+83,12-01-2024,Tablet,4,619.43,Los Angeles,1039
+84,19-01-2024,Laptop,2,897.52,Boston,1074
+85,21-09-2024,Tablet,1,877.53,San Francisco,1060
+86,17-11-2024,Tablet,4,1000.68,Boston,1049
+87,05-05-2024,Headphones,1,160.99,Los Angeles,1066
+88,10-02-2024,Laptop,1,985.14,San Francisco,1061
+89,21-12-2024,Tablet,1,481.98,New York City,1057
+90,01-11-2024,Headphones,3,610.59,New York City,1032
+91,17-06-2024,Headphones,3,1289.82,Chicago,1074
+92,30-04-2024,Laptop,2,33.36,Los Angeles,1015
+93,02-06-2024,Keyboard,2,890.85,Los Angeles,1081
+94,16-04-2024,Camera,4,906.1,New York City,1093
+95,08-02-2024,Smartwatch,2,607.06,Boston,1047
+96,23-09-2024,Camera,1,370.8,San Francisco,1009
+97,11-10-2024,Printer,1,367.32,Boston,1081
+98,29-10-2024,Smartwatch,3,1327.89,Boston,1037
+99,03-10-2024,Printer,1,674.2,New York City,1018
+100,29-02-2024,Tablet,4,509.72,New York City,1035
+101,05-09-2024,Smartphone,1,684.19,New York City,1058
+102,16-06-2024,Laptop,1,1010.7,Chicago,1062
+103,20-05-2024,Smartwatch,4,235.72,Boston,1076
+104,06-12-2024,Smartwatch,2,685.16,Los Angeles,1045
+105,16-03-2024,Tablet,2,890.07,San Francisco,1002
+106,19-11-2024,Keyboard,4,1423.9,Chicago,1073
+107,07-11-2024,Headphones,3,393.74,Los Angeles,1064
+108,29-07-2024,Tablet,1,551.69,Boston,1090
+109,28-10-2024,Mouse,4,581.45,New York City,1007
+110,15-12-2024,Headphones,1,916.2,Boston,1050
+111,17-04-2024,Laptop,3,547.96,San Francisco,1080
+112,11-07-2024,Headphones,1,809.6,Chicago,1072
+113,15-05-2024,Keyboard,4,1177.05,Chicago,1005
+114,26-12-2024,Headphones,1,1063.97,San Francisco,1088
+115,19-06-2024,Laptop,2,680.63,Los Angeles,1038
+116,04-03-2024,Keyboard,3,1299.04,Los Angeles,1059
+117,26-07-2024,Camera,3,846.05,Chicago,1027
+118,01-08-2024,Smartwatch,3,819.06,Chicago,1096
+119,06-11-2024,Smartwatch,4,70.6,New York City,1053
+120,30-12-2024,Printer,3,1480.31,Los Angeles,1036
+121,15-03-2024,Camera,2,202,San Francisco,1008
+122,21-05-2024,Camera,4,362.07,Los Angeles,1081
+123,14-07-2024,Headphones,2,96.51,New York City,1055
+124,04-08-2024,Smartwatch,1,967.2,Chicago,1058
+125,18-02-2024,Laptop,1,352.56,Chicago,1084
+126,27-07-2024,Monitor,1,286.42,New York City,1001
+127,06-08-2024,Monitor,1,151.06,San Francisco,1060
+128,15-07-2024,Keyboard,2,172.9,Chicago,1057
+129,18-07-2024,Smartwatch,4,885.31,Boston,1059
+130,10-08-2024,Smartwatch,4,1038.55,Chicago,1039
+131,18-09-2024,Monitor,3,608.12,Boston,1035
+132,09-02-2024,Smartwatch,2,730.25,New York City,1036
+133,03-11-2024,Headphones,1,1035.23,New York City,1078
+134,15-01-2024,Mouse,2,45.72,Chicago,1091
+135,28-09-2024,Smartphone,3,498.23,Los Angeles,1017
+136,02-01-2024,Camera,3,1460.18,Boston,1097
+137,20-08-2024,Printer,2,878.57,San Francisco,1062
+138,06-01-2024,Keyboard,2,396.25,Chicago,1021
+139,08-11-2024,Mouse,2,792.16,San Francisco,1010
+140,09-08-2024,Monitor,4,527.13,Chicago,1057
+141,20-08-2024,Camera,1,807.72,Los Angeles,1056
+142,14-08-2024,Smartwatch,2,206.1,Los Angeles,1076
+143,29-02-2024,Printer,2,216.42,Los Angeles,1003
+144,25-12-2024,Smartwatch,2,232.44,Los Angeles,1085
+145,03-05-2024,Laptop,3,1410.93,New York City,1006
+146,12-05-2024,Laptop,3,1104.69,New York City,1060
+147,06-03-2024,Printer,4,260.33,Boston,1053
+148,27-01-2024,Printer,1,298.76,San Francisco,1087
+149,29-11-2024,Monitor,4,1101.63,Chicago,1067
+150,16-01-2024,Printer,1,251.12,Chicago,1091
+151,22-08-2024,Headphones,3,367.15,New York City,1078
+152,09-11-2024,Smartwatch,3,1445.75,Chicago,1000
+153,22-05-2024,Mouse,3,397.85,New York City,1054
+154,01-09-2024,Tablet,4,999.22,Boston,1002
+155,28-10-2024,Printer,2,1468.37,San Francisco,1077
+156,07-11-2024,Keyboard,2,573.96,Boston,1037
+157,11-02-2024,Laptop,3,45.92,Los Angeles,1000
+158,20-07-2024,Headphones,2,381.34,Los Angeles,1037
+159,30-04-2024,Camera,2,1249.7,Los Angeles,1084
+160,20-10-2024,Tablet,4,1299.62,Boston,1028
+161,11-11-2024,Mouse,1,1157.41,Chicago,1004
+162,22-04-2024,Tablet,3,187.4,San Francisco,1073
+163,04-09-2024,Printer,3,1197.36,Los Angeles,1091
+164,15-11-2024,Monitor,4,1379.64,Los Angeles,1020
+165,24-09-2024,Laptop,4,908.9,Los Angeles,1070
+166,11-04-2024,Laptop,2,1412.5,San Francisco,1066
+167,16-10-2024,Camera,3,1243.72,Los Angeles,1046
+168,08-12-2024,Monitor,1,1007.12,San Francisco,1083
+169,26-05-2024,Smartwatch,4,874.23,Los Angeles,1082
+170,21-01-2024,Smartphone,1,535.89,Boston,1034
+171,30-10-2024,Headphones,1,255.75,Boston,1067
+172,02-06-2024,Laptop,3,915.33,San Francisco,1068
+173,17-04-2024,Keyboard,3,490.81,Boston,1000
+174,20-08-2024,Laptop,4,1302.33,San Francisco,1067
+175,14-03-2024,Tablet,3,1490.14,Boston,1011
+176,14-12-2024,Laptop,3,1133.59,Boston,1059
+177,13-07-2024,Laptop,3,153.91,San Francisco,1026
+178,17-12-2024,Smartphone,1,447.25,Chicago,1055
+179,27-09-2024,Smartphone,4,181.48,Boston,1022
+180,29-12-2024,Mouse,2,982.76,Los Angeles,1024
+181,04-10-2024,Smartwatch,1,1152.48,Chicago,1020
+182,13-12-2024,Keyboard,3,1390,San Francisco,1060
+183,27-09-2024,Laptop,1,668.5,Chicago,1062
+184,10-04-2024,Laptop,3,1354.04,New York City,1051
+185,30-10-2024,Headphones,3,1319.28,New York City,1087
+186,12-09-2024,Smartphone,1,489.45,Boston,1024
+187,23-06-2024,Keyboard,4,1305.97,Boston,1054
+188,30-01-2024,Camera,3,575.99,Los Angeles,1045
+189,25-07-2024,Mouse,4,459.37,Chicago,1031
+190,12-12-2024,Smartwatch,2,980.63,New York City,1054
+191,05-11-2024,Monitor,3,506,Boston,1095
+192,01-03-2024,Smartwatch,4,952.71,Chicago,1004
+193,17-01-2024,Tablet,4,922.55,Boston,1035
+194,07-03-2024,Laptop,2,853.89,Boston,1048
+195,18-01-2024,Mouse,4,583.02,New York City,1057
+196,01-03-2024,Tablet,4,831.78,New York City,1038
+197,30-03-2024,Keyboard,2,902.8,Boston,1079
+198,26-03-2024,Monitor,3,827.62,San Francisco,1096
+199,17-09-2024,Smartphone,4,677.74,Boston,1084
+200,26-08-2024,Mouse,4,41.71,Boston,1060
+201,05-07-2024,Mouse,4,888.85,Los Angeles,1008
+202,28-12-2024,Laptop,1,269.3,Los Angeles,1005
+203,06-04-2024,Printer,2,971.01,Los Angeles,1034
+204,17-01-2024,Mouse,1,1143.83,San Francisco,1038
+205,22-04-2024,Headphones,2,760.66,San Francisco,1021
+206,20-09-2024,Monitor,3,822.7,Boston,1040
+207,10-01-2024,Monitor,3,1428.19,Los Angeles,1004
+208,09-08-2024,Headphones,4,1273.81,San Francisco,1041
+209,04-03-2024,Camera,2,1373.07,New York City,1086
+210,17-05-2024,Headphones,3,1224.37,Boston,1080
+211,02-08-2024,Headphones,2,181.2,Chicago,1075
+212,05-01-2024,Monitor,3,240.51,Boston,1086
+213,10-10-2024,Smartwatch,1,799.4,Chicago,1079
+214,05-12-2024,Monitor,3,384.18,Los Angeles,1066
+215,16-05-2024,Printer,1,725.51,Chicago,1029
+216,12-10-2024,Laptop,3,603.66,Los Angeles,1056
+217,17-12-2024,Tablet,4,833.13,New York City,1085
+218,04-07-2024,Smartwatch,1,1125.38,Chicago,1072
+219,04-11-2024,Smartphone,3,1078.93,Boston,1028
+220,20-09-2024,Tablet,4,791.43,Los Angeles,1036
+221,28-05-2024,Laptop,1,1237.14,Boston,1086
+222,02-10-2024,Printer,4,657.68,San Francisco,1012
+223,14-03-2024,Printer,2,1347.14,Los Angeles,1031
+224,03-02-2024,Smartphone,2,125.49,Chicago,1045
+225,10-02-2024,Smartwatch,1,1432.9,Los Angeles,1022
+226,01-10-2024,Camera,3,988.95,Boston,1044
+227,17-07-2024,Headphones,1,582.51,New York City,1016
+228,19-05-2024,Smartwatch,4,311.79,Los Angeles,1084
+229,17-04-2024,Camera,3,729.19,Chicago,1065
+230,11-09-2024,Printer,2,307.95,San Francisco,1005
+231,07-01-2024,Monitor,3,266.17,New York City,1017
+232,10-12-2024,Laptop,2,933.68,San Francisco,1093
+233,28-05-2024,Smartphone,3,794.17,Los Angeles,1021
+234,27-07-2024,Laptop,3,1011.74,Boston,1032
+235,09-01-2024,Keyboard,3,1395.82,Boston,1029
+236,25-12-2024,Keyboard,4,807.75,Chicago,1080
+237,13-11-2024,Smartwatch,4,879.78,Boston,1031
+238,21-03-2024,Printer,1,152.65,New York City,1041
+239,27-03-2024,Printer,1,1082.1,Boston,1077
+240,03-08-2024,Headphones,2,611.86,Chicago,1009
+241,19-11-2024,Headphones,4,1465.55,Los Angeles,1035
+242,22-08-2024,Headphones,2,1238.3,Los Angeles,1033
+243,28-01-2024,Monitor,1,793.27,Boston,1072
+244,27-10-2024,Tablet,2,202.37,San Francisco,1027
+245,13-04-2024,Mouse,1,1291.94,Los Angeles,1010
+246,20-06-2024,Tablet,4,1203.68,Boston,1077
+247,06-03-2024,Laptop,3,293.19,Chicago,1038
+248,10-03-2024,Tablet,4,457.01,Boston,1046
+249,29-03-2024,Monitor,2,1194.24,Los Angeles,1018
+250,07-07-2024,Laptop,2,294.14,Chicago,1014
+251,02-10-2024,Tablet,4,1378.27,Boston,1027
+252,25-09-2024,Monitor,4,648.3,New York City,1023
+253,10-06-2024,Mouse,1,148.82,Chicago,1071
+254,11-06-2024,Tablet,2,1227.31,New York City,1008
+255,11-05-2024,Monitor,2,572.79,San Francisco,1046
+256,19-10-2024,Headphones,4,799.22,Chicago,1032
+257,11-12-2024,Printer,3,186.21,New York City,1061
+258,15-11-2024,Headphones,2,23.82,Los Angeles,1096
+259,25-06-2024,Printer,3,964.22,Los Angeles,1018
+260,25-04-2024,Smartphone,4,782.46,San Francisco,1066
+261,09-03-2024,Smartphone,4,898.44,Chicago,1073
+262,30-09-2024,Smartphone,1,1194.74,Chicago,1039
+263,20-08-2024,Mouse,2,976.98,Chicago,1046
+264,16-05-2024,Headphones,3,278.66,San Francisco,1064
+265,06-03-2024,Printer,1,553.94,Chicago,1028
+266,17-02-2024,Monitor,2,1360.72,Los Angeles,1049
+267,19-04-2024,Laptop,1,1159.52,New York City,1097
+268,15-10-2024,Monitor,4,843.82,Los Angeles,1012
+269,13-03-2024,Laptop,2,398.35,Los Angeles,1000
+270,26-10-2024,Keyboard,1,467.05,New York City,1033
+271,16-09-2024,Monitor,1,1103.3,Los Angeles,1092
+272,18-08-2024,Tablet,3,1279.74,San Francisco,1047
+273,17-06-2024,Tablet,1,1013.71,New York City,1076
+274,24-12-2024,Smartwatch,2,1218.1,Los Angeles,1047
+275,18-11-2024,Headphones,2,1154.65,Boston,1048
+276,28-12-2024,Laptop,3,241.56,Los Angeles,1063
+277,04-03-2024,Laptop,2,647.44,San Francisco,1060
+278,18-05-2024,Headphones,4,246.42,Chicago,1028
+279,02-09-2024,Mouse,2,368.15,Los Angeles,1038
+280,20-03-2024,Smartwatch,2,1306.5,Chicago,1087
+281,30-04-2024,Mouse,1,719.88,Boston,1025
+282,05-07-2024,Mouse,1,812.33,Los Angeles,1016
+283,04-12-2024,Mouse,2,284.1,New York City,1070
+284,09-10-2024,Headphones,3,482.16,Chicago,1012
+285,19-08-2024,Mouse,1,360.76,Boston,1068
+286,14-06-2024,Tablet,3,325.16,New York City,1025
+287,10-09-2024,Smartphone,2,964.18,New York City,1048
+288,18-01-2024,Keyboard,2,400.19,New York City,1066
+289,05-12-2024,Laptop,4,955.38,New York City,1006
+290,05-02-2024,Laptop,1,106.51,Los Angeles,1057
+291,16-07-2024,Keyboard,2,229.83,Los Angeles,1048
+292,09-10-2024,Headphones,4,426.32,Los Angeles,1052
+293,05-06-2024,Monitor,1,903.63,Boston,1064
+294,28-07-2024,Headphones,2,1020.25,Boston,1061
+295,21-09-2024,Laptop,2,675.22,Boston,1016
+296,01-07-2024,Laptop,1,679.77,San Francisco,1042
+297,02-04-2024,Keyboard,1,1092.28,Boston,1024
+298,23-02-2024,Mouse,1,43.42,Los Angeles,1002
+299,02-01-2024,Headphones,2,524.81,Los Angeles,1078
+300,01-12-2024,Printer,2,1231.69,San Francisco,1028
+301,06-06-2024,Keyboard,4,912.76,San Francisco,1031
+302,19-11-2024,Tablet,3,519.1,Boston,1025
+303,21-08-2024,Laptop,1,1360.18,Chicago,1015
+304,08-10-2024,Keyboard,2,1163.48,San Francisco,1024
+305,12-03-2024,Headphones,2,412.05,New York City,1053
+306,20-12-2024,Laptop,1,975.03,Los Angeles,1027
+307,19-07-2024,Monitor,3,901.71,New York City,1072
+308,06-09-2024,Keyboard,1,613.76,Los Angeles,1055
+309,16-05-2024,Smartwatch,3,563.09,Los Angeles,1064
+310,23-05-2024,Laptop,2,528.47,San Francisco,1092
+311,15-01-2024,Headphones,3,933.39,San Francisco,1085
+312,19-05-2024,Smartphone,4,674.77,New York City,1079
+313,14-05-2024,Printer,2,1251.16,Los Angeles,1040
+314,31-05-2024,Camera,4,1011.01,New York City,1050
+315,11-02-2024,Mouse,1,123.5,Chicago,1070
+316,11-09-2024,Camera,1,967.45,New York City,1077
+317,06-09-2024,Headphones,1,421.3,Boston,1028
+318,14-12-2024,Tablet,3,897.36,New York City,1082
+319,15-01-2024,Tablet,2,1026.6,Boston,1018
+320,03-11-2024,Smartphone,1,361.63,Boston,1065
+321,19-10-2024,Mouse,1,696.15,Boston,1040
+322,25-02-2024,Smartwatch,2,301.68,Chicago,1044
+323,26-05-2024,Smartphone,1,97.46,New York City,1014
+324,23-04-2024,Camera,4,580.15,New York City,1002
+325,02-08-2024,Smartphone,2,557.16,Chicago,1010
+326,21-09-2024,Camera,2,1493.31,Los Angeles,1052
+327,11-06-2024,Laptop,2,680.6,San Francisco,1045
+328,17-06-2024,Tablet,4,513.68,New York City,1029
+329,03-08-2024,Laptop,2,879.1,San Francisco,1056
+330,23-03-2024,Printer,4,151.38,Chicago,1017
+331,01-08-2024,Mouse,2,1443.27,Los Angeles,1050
+332,18-02-2024,Smartwatch,3,959.74,Los Angeles,1047
+333,29-11-2024,Camera,1,1137.16,Los Angeles,1065
+334,07-09-2024,Smartwatch,3,272.31,Chicago,1095
+335,27-09-2024,Camera,1,626.03,Boston,1007
+336,09-07-2024,Headphones,4,645.58,Boston,1021
+337,17-02-2024,Smartphone,3,1236.27,San Francisco,1005
+338,08-02-2024,Printer,2,21.83,Boston,1075
+339,23-10-2024,Tablet,1,465.26,Boston,1056
+340,09-05-2024,Camera,1,1472.23,Los Angeles,1035
+341,29-12-2024,Smartwatch,3,722.83,Los Angeles,1078
+342,14-09-2024,Printer,4,586.14,San Francisco,1091
+343,11-01-2024,Monitor,3,197.35,New York City,1056
+344,18-03-2024,Monitor,4,1461.76,San Francisco,1048
+345,18-03-2024,Laptop,4,49.64,San Francisco,1044
+346,03-10-2024,Tablet,1,1111.03,Chicago,1081
+347,21-10-2024,Headphones,3,1157.53,Chicago,1065
+348,13-05-2024,Smartwatch,3,380.61,San Francisco,1076
+349,06-05-2024,Smartphone,4,1013.91,San Francisco,1044
+350,13-08-2024,Smartphone,3,157.54,San Francisco,1078
+351,03-07-2024,Smartwatch,2,400.43,Boston,1019
+352,31-07-2024,Mouse,2,1186.09,Chicago,1063
+353,03-10-2024,Headphones,3,1299.74,San Francisco,1092
+354,15-10-2024,Printer,3,920.56,Los Angeles,1092
+355,22-02-2024,Camera,4,770.12,Los Angeles,1066
+356,12-03-2024,Mouse,2,255.77,Boston,1082
+357,06-06-2024,Camera,2,113.4,Boston,1002
+358,14-06-2024,Camera,1,194.12,New York City,1053
+359,22-06-2024,Mouse,4,356.49,New York City,1077
+360,16-06-2024,Laptop,1,525.68,New York City,1063
+361,29-03-2024,Monitor,2,583.75,Boston,1039
+362,14-06-2024,Camera,4,532.56,Boston,1058
+363,21-02-2024,Mouse,3,373.8,Boston,1054
+364,25-08-2024,Mouse,4,774.39,Los Angeles,1061
+365,06-04-2024,Keyboard,3,1241.42,Boston,1003
+366,25-06-2024,Laptop,3,433.96,Los Angeles,1059
+367,17-03-2024,Tablet,4,1414.73,New York City,1074
+368,23-01-2024,Keyboard,3,1312.54,New York City,1094
+369,13-06-2024,Keyboard,1,259.41,New York City,1095
+370,23-10-2024,Smartwatch,2,1183.69,San Francisco,1090
+371,05-09-2024,Monitor,3,870.39,San Francisco,1029
+372,20-12-2024,Mouse,1,858.53,Chicago,1001
+373,07-11-2024,Monitor,3,598.74,Chicago,1061
+374,23-04-2024,Headphones,2,761.71,Chicago,1048
+375,26-08-2024,Smartwatch,1,607.82,San Francisco,1008
+376,30-08-2024,Tablet,2,818.8,San Francisco,1091
+377,20-07-2024,Monitor,2,949.37,Chicago,1030
+378,17-12-2024,Smartphone,1,1017.97,Chicago,1097
+379,28-03-2024,Camera,1,808.07,Boston,1060
+380,07-10-2024,Headphones,1,1087.7,Chicago,1078
+381,16-01-2024,Laptop,4,229.09,Boston,1047
+382,11-04-2024,Tablet,1,333.73,Los Angeles,1024
+383,08-12-2024,Headphones,1,1231.73,San Francisco,1035
+384,26-10-2024,Camera,1,497.34,Chicago,1007
+385,22-11-2024,Smartwatch,1,53.88,San Francisco,1072
+386,26-12-2024,Camera,3,247.61,San Francisco,1057
+387,13-07-2024,Keyboard,4,350.95,San Francisco,1044
+388,13-01-2024,Camera,2,1436.84,Los Angeles,1061
+389,22-05-2024,Keyboard,1,868.1,New York City,1038
+390,29-05-2024,Smartwatch,3,1400.44,Chicago,1095
+391,27-04-2024,Printer,3,871.24,New York City,1057
+392,06-12-2024,Keyboard,3,729.44,New York City,1080
+393,31-10-2024,Laptop,2,484.32,New York City,1098
+394,08-02-2024,Camera,1,917.43,San Francisco,1082
+395,11-06-2024,Camera,4,226.01,Boston,1063
+396,28-08-2024,Laptop,4,1349.43,San Francisco,1043
+397,30-08-2024,Smartphone,3,1247.41,San Francisco,1028
+398,08-06-2024,Mouse,2,489.95,New York City,1058
+399,01-01-2024,Printer,2,1430.14,San Francisco,1070
+400,29-06-2024,Tablet,2,1241.3,New York City,1091
+401,12-11-2024,Keyboard,4,1006.13,Boston,1008
+402,12-01-2024,Laptop,3,200.21,Chicago,1091
+403,03-10-2024,Smartwatch,1,727.79,New York City,1005
+404,18-05-2024,Keyboard,4,769.04,Boston,1028
+405,11-02-2024,Mouse,3,364.18,Chicago,1057
+406,09-07-2024,Smartwatch,3,138.35,Los Angeles,1016
+407,26-04-2024,Headphones,1,1169.55,New York City,1015
+408,26-07-2024,Camera,1,200.61,New York City,1086
+409,30-03-2024,Headphones,1,899.55,Los Angeles,1094
+410,09-01-2024,Keyboard,2,1405.94,Los Angeles,1002
+411,29-02-2024,Mouse,1,1316.64,New York City,1020
+412,27-12-2024,Printer,3,431.07,Los Angeles,1063
+413,24-05-2024,Keyboard,1,1280.14,San Francisco,1089
+414,02-02-2024,Laptop,3,20.49,Chicago,1035
+415,31-07-2024,Monitor,4,46.18,Chicago,1085
+416,20-03-2024,Keyboard,2,911.78,Chicago,1061
+417,14-11-2024,Camera,4,559.9,San Francisco,1041
+418,16-09-2024,Camera,4,591.96,Los Angeles,1075
+419,24-05-2024,Keyboard,3,855.37,Boston,1041
+420,27-04-2024,Smartwatch,4,303.84,Los Angeles,1060
+421,30-09-2024,Monitor,3,333.4,New York City,1012
+422,20-10-2024,Laptop,1,737.21,Chicago,1010
+423,16-07-2024,Keyboard,1,1136.3,Los Angeles,1053
+424,10-09-2024,Smartwatch,3,936.86,Boston,1015
+425,13-09-2024,Camera,1,460.09,New York City,1007
+426,16-03-2024,Camera,2,656.9,San Francisco,1058
+427,03-07-2024,Mouse,4,272.58,San Francisco,1056
+428,07-07-2024,Keyboard,2,130.45,Boston,1039
+429,27-06-2024,Monitor,4,1178.39,New York City,1058
+430,16-09-2024,Smartphone,1,412.77,Chicago,1001
+431,15-01-2024,Monitor,2,283.09,Los Angeles,1093
+432,27-03-2024,Camera,1,1043.59,New York City,1093
+433,29-08-2024,Camera,4,934.72,San Francisco,1075
+434,22-10-2024,Headphones,3,957.12,Boston,1009
+435,28-10-2024,Camera,3,358.76,Boston,1043
+436,16-12-2024,Laptop,2,364.32,Los Angeles,1010
+437,11-08-2024,Tablet,1,346.79,Boston,1078
+438,28-08-2024,Keyboard,1,277.15,Boston,1079
+439,18-05-2024,Monitor,2,990.47,New York City,1080
+440,24-10-2024,Tablet,3,1275.06,Chicago,1089
+441,18-08-2024,Smartwatch,4,1091.99,Los Angeles,1001
+442,14-10-2024,Smartphone,2,1192.3,New York City,1049
+443,29-07-2024,Laptop,4,619.1,Chicago,1011
+444,11-01-2024,Monitor,3,988.03,New York City,1089
+445,13-05-2024,Tablet,1,544.27,New York City,1022
+446,18-06-2024,Smartphone,3,797.75,Boston,1017
+447,01-05-2024,Headphones,2,732.82,Chicago,1061
+448,20-02-2024,Laptop,1,281.79,Los Angeles,1095
+449,04-01-2024,Laptop,2,592.88,Los Angeles,1061
+450,27-07-2024,Headphones,2,1446.46,Chicago,1037
+451,20-03-2024,Keyboard,3,387.9,Boston,1066
+452,16-10-2024,Headphones,2,218.03,San Francisco,1037
+453,20-04-2024,Laptop,3,639.5,New York City,1066
+454,24-02-2024,Laptop,1,1189.7,Boston,1093
+455,13-01-2024,Tablet,3,881.58,Chicago,1060
+456,11-01-2024,Camera,1,1027.84,New York City,1000
+457,21-10-2024,Smartphone,3,300.75,Los Angeles,1093
+458,02-12-2024,Headphones,4,936.04,San Francisco,1044
+459,30-09-2024,Smartphone,4,498.78,Los Angeles,1095
+460,30-12-2024,Headphones,2,1254.77,Chicago,1027
+461,06-06-2024,Smartwatch,3,951.36,New York City,1020
+462,15-03-2024,Laptop,3,314.31,Chicago,1012
+463,20-11-2024,Camera,1,115.63,New York City,1026
+464,11-06-2024,Tablet,2,83.1,Boston,1099
+465,02-09-2024,Camera,3,569.68,San Francisco,1006
+466,15-08-2024,Camera,2,413.46,Boston,1021
+467,26-11-2024,Camera,4,976.21,Boston,1073
+468,04-09-2024,Smartphone,3,759.01,Chicago,1052
+469,10-10-2024,Headphones,3,413.71,San Francisco,1078
+470,29-07-2024,Printer,2,240.87,New York City,1078
+471,25-03-2024,Smartwatch,3,208.26,New York City,1003
+472,07-07-2024,Monitor,2,1299.7,Los Angeles,1095
+473,07-11-2024,Camera,3,380.35,New York City,1022
+474,09-10-2024,Keyboard,1,984.53,Chicago,1069
+475,07-09-2024,Smartphone,2,1219.82,Boston,1087
+476,04-07-2024,Tablet,3,928.84,Boston,1083
+477,23-11-2024,Monitor,4,1292.16,Boston,1083
+478,06-06-2024,Printer,3,600.74,San Francisco,1075
+479,20-06-2024,Keyboard,4,1435.21,New York City,1032
+480,20-02-2024,Printer,4,217.05,Chicago,1027
+481,10-11-2024,Monitor,1,171.18,San Francisco,1007
+482,31-08-2024,Camera,2,994.86,Los Angeles,1000
+483,25-02-2024,Keyboard,3,1415.39,Chicago,1036
+484,21-03-2024,Printer,1,1217.15,Chicago,1062
+485,11-03-2024,Tablet,3,133.1,Chicago,1021
+486,05-04-2024,Headphones,4,433.46,Boston,1069
+487,23-12-2024,Laptop,2,1396.87,Chicago,1020
+488,11-07-2024,Headphones,3,394.53,New York City,1095
+489,05-06-2024,Monitor,3,1176.13,Chicago,1034
+490,30-05-2024,Smartphone,4,1241.2,Boston,1078
+491,11-10-2024,Laptop,3,753.27,Chicago,1004
+492,20-11-2024,Smartwatch,3,591.8,Los Angeles,1059
+493,21-10-2024,Tablet,4,686.18,Los Angeles,1045
+494,06-12-2024,Smartwatch,1,355.91,Boston,1049
+495,18-05-2024,Keyboard,4,1336.3,New York City,1047
+496,12-10-2024,Laptop,1,686.92,New York City,1005
+497,08-07-2024,Smartwatch,2,1326.04,San Francisco,1088
+498,27-09-2024,Smartwatch,1,176.43,Boston,1055
+499,29-03-2024,Printer,1,1482.65,Chicago,1058
+500,25-11-2024,Headphones,2,676.04,Boston,1028
+501,03-04-2024,Printer,1,90.79,San Francisco,1070
+502,04-10-2024,Laptop,4,76.27,Boston,1076
+503,12-04-2024,Laptop,1,1124.39,Boston,1017
+504,30-01-2024,Monitor,2,995.37,San Francisco,1001
+505,11-09-2024,Printer,4,1207.15,New York City,1007
+506,20-07-2024,Mouse,2,175.94,Chicago,1074
+507,14-05-2024,Headphones,2,72.64,San Francisco,1096
+508,27-01-2024,Laptop,3,772.7,Los Angeles,1053
+509,21-08-2024,Monitor,3,593.64,New York City,1037
+510,15-02-2024,Printer,2,703.68,Los Angeles,1047
+511,21-11-2024,Headphones,2,1487.55,New York City,1026
+512,13-09-2024,Printer,2,1456.71,Chicago,1019
+513,17-08-2024,Smartwatch,3,1414.63,Chicago,1011
+514,11-08-2024,Monitor,3,1180.09,Boston,1042
+515,12-03-2024,Headphones,1,545.17,Los Angeles,1060
+516,02-10-2024,Camera,1,629.95,New York City,1030
+517,15-08-2024,Keyboard,2,833.43,Chicago,1090
+518,02-02-2024,Keyboard,4,1249.19,San Francisco,1095
+519,11-02-2024,Headphones,4,121.69,Chicago,1060
+520,23-11-2024,Printer,3,647.96,San Francisco,1073
+521,14-05-2024,Monitor,3,142.27,New York City,1066
+522,22-12-2024,Keyboard,3,781.69,Chicago,1090
+523,11-03-2024,Monitor,2,1350.37,Chicago,1034
+524,14-05-2024,Keyboard,4,1178.08,New York City,1094
+525,04-09-2024,Smartwatch,1,357.21,Chicago,1014
+526,18-06-2024,Printer,2,1464.47,San Francisco,1015
+527,02-01-2024,Smartwatch,1,1007.68,Chicago,1012
+528,04-07-2024,Keyboard,1,35.43,Los Angeles,1034
+529,26-05-2024,Camera,2,398.01,Boston,1074
+530,14-09-2024,Camera,1,405.86,San Francisco,1058
+531,04-11-2024,Smartwatch,4,122.5,Los Angeles,1020
+532,02-05-2024,Camera,1,1440.54,New York City,1053
+533,25-09-2024,Keyboard,4,727.82,San Francisco,1074
+534,17-04-2024,Headphones,4,1345.81,Boston,1029
+535,15-08-2024,Smartwatch,4,496.88,Boston,1047
+536,11-10-2024,Smartphone,3,205.35,New York City,1034
+537,12-01-2024,Printer,1,722.02,New York City,1085
+538,05-06-2024,Camera,2,188.66,San Francisco,1037
+539,14-08-2024,Camera,2,739.3,Chicago,1030
+540,23-07-2024,Laptop,1,1382.04,New York City,1077
+541,16-05-2024,Mouse,3,790.74,Chicago,1023
+542,19-11-2024,Smartwatch,3,932.42,Los Angeles,1048
+543,18-09-2024,Tablet,4,251.82,Boston,1095
+544,25-11-2024,Camera,1,84.73,Chicago,1099
+545,08-05-2024,Printer,1,184,Boston,1031
+546,22-12-2024,Smartphone,2,905.83,Chicago,1054
+547,05-04-2024,Camera,1,160.62,Los Angeles,1078
+548,03-05-2024,Smartphone,3,576.47,New York City,1057
+549,16-08-2024,Keyboard,1,834.14,Los Angeles,1098
+550,09-09-2024,Keyboard,2,595.21,New York City,1002
+551,26-08-2024,Mouse,4,262.25,New York City,1079
+552,09-03-2024,Headphones,2,425.21,Boston,1068
+553,08-10-2024,Tablet,2,1393.91,Los Angeles,1084
+554,18-04-2024,Laptop,4,1020.45,Chicago,1009
+555,16-03-2024,Mouse,2,754.15,Los Angeles,1082
+556,12-12-2024,Monitor,2,38.82,Boston,1024
+557,24-07-2024,Laptop,1,1488.77,New York City,1067
+558,21-03-2024,Smartwatch,1,1013.75,Boston,1060
+559,01-10-2024,Printer,4,489.05,San Francisco,1028
+560,09-04-2024,Monitor,1,1321.32,San Francisco,1018
+561,08-06-2024,Monitor,1,402.48,Chicago,1042
+562,19-01-2024,Mouse,2,825.14,Boston,1065
+563,18-01-2024,Headphones,3,961.38,Chicago,1073
+564,17-06-2024,Mouse,1,347.17,Chicago,1060
+565,07-05-2024,Smartwatch,3,1468.03,San Francisco,1042
+566,10-03-2024,Camera,1,1127.32,Chicago,1024
+567,09-09-2024,Camera,1,845.56,San Francisco,1019
+568,17-11-2024,Headphones,4,287.28,New York City,1047
+569,12-07-2024,Smartwatch,4,99.71,Boston,1082
+570,16-12-2024,Headphones,4,493.69,Chicago,1086
+571,19-02-2024,Smartphone,3,1134.72,San Francisco,1023
+572,23-04-2024,Camera,2,418.61,Los Angeles,1010
+573,13-02-2024,Monitor,1,818.54,Chicago,1097
+574,10-03-2024,Tablet,1,1097.36,New York City,1054
+575,11-11-2024,Printer,1,179.76,New York City,1027
+576,18-03-2024,Smartwatch,3,1034.24,Los Angeles,1068
+577,21-10-2024,Laptop,4,155.97,San Francisco,1062
+578,21-04-2024,Headphones,2,1448.39,Chicago,1058
+579,31-03-2024,Printer,3,742.82,San Francisco,1004
+580,15-12-2024,Laptop,4,243,New York City,1050
+581,09-01-2024,Printer,3,526.73,San Francisco,1020
+582,12-02-2024,Tablet,2,631.86,New York City,1011
+583,24-09-2024,Laptop,4,1142.11,San Francisco,1049
+584,11-03-2024,Mouse,3,1120.27,Los Angeles,1003
+585,23-05-2024,Keyboard,2,925.67,Boston,1041
+586,23-05-2024,Mouse,1,176.78,Los Angeles,1083
+587,21-07-2024,Camera,2,244.32,Los Angeles,1037
+588,11-03-2024,Keyboard,1,158.76,Boston,1024
+589,20-01-2024,Mouse,3,874.22,Boston,1013
+590,17-12-2024,Keyboard,4,1318.16,Chicago,1074
+591,26-08-2024,Keyboard,4,662.02,Chicago,1031
+592,07-05-2024,Monitor,3,258.06,Los Angeles,1010
+593,30-09-2024,Headphones,4,845.9,Los Angeles,1060
+594,23-10-2024,Headphones,4,1221.39,New York City,1017
+595,13-05-2024,Monitor,1,1117.73,New York City,1026
+596,05-07-2024,Printer,3,1324.55,Chicago,1054
+597,16-02-2024,Smartphone,2,431.3,Chicago,1053
+598,01-09-2024,Printer,1,307.05,New York City,1081
+599,30-03-2024,Laptop,3,1322.13,New York City,1086
+600,10-07-2024,Laptop,1,993.19,San Francisco,1074
+601,09-06-2024,Keyboard,2,480.17,San Francisco,1020
+602,19-01-2024,Mouse,2,1118.68,New York City,1043
+603,13-02-2024,Mouse,3,1226.38,San Francisco,1004
+604,26-10-2024,Headphones,2,930.17,Boston,1086
+605,13-07-2024,Smartwatch,1,1038.07,Chicago,1040
+606,04-03-2024,Printer,2,575.38,Chicago,1058
+607,27-11-2024,Camera,1,817.27,New York City,1088
+608,12-08-2024,Tablet,1,795.76,Los Angeles,1053
+609,06-04-2024,Mouse,2,1275.11,New York City,1073
+610,10-03-2024,Tablet,3,1263.15,San Francisco,1021
+611,29-02-2024,Keyboard,4,1252.37,Los Angeles,1082
+612,03-08-2024,Tablet,2,36.33,San Francisco,1064
+613,11-06-2024,Camera,1,1129.33,Boston,1063
+614,04-01-2024,Monitor,1,1142.84,San Francisco,1070
+615,12-09-2024,Camera,2,1024,Boston,1003
+616,09-01-2024,Tablet,3,1139.27,Boston,1064
+617,28-03-2024,Camera,3,1266.12,San Francisco,1014
+618,21-06-2024,Smartphone,1,716.07,San Francisco,1075
+619,16-07-2024,Keyboard,1,763.03,Boston,1021
+620,06-05-2024,Printer,3,204.58,Los Angeles,1085
+621,07-04-2024,Monitor,4,590.36,Boston,1046
+622,15-06-2024,Mouse,2,972.18,Chicago,1080
+623,07-01-2024,Laptop,1,1174.99,Boston,1092
+624,16-05-2024,Printer,1,341.47,Los Angeles,1045
+625,25-12-2024,Laptop,3,223.98,Chicago,1013
+626,14-07-2024,Keyboard,2,1001.3,New York City,1049
+627,15-08-2024,Monitor,3,22.78,New York City,1019
+628,10-07-2024,Headphones,2,283.99,Los Angeles,1049
+629,05-05-2024,Mouse,2,63.03,Boston,1032
+630,27-12-2024,Smartphone,2,266.99,San Francisco,1058
+631,05-12-2024,Headphones,1,288.35,Los Angeles,1042
+632,02-11-2024,Keyboard,4,593.76,Chicago,1078
+633,26-02-2024,Printer,3,615.44,Chicago,1011
+634,18-09-2024,Smartphone,4,1313.91,New York City,1039
+635,16-08-2024,Camera,3,774.96,Chicago,1019
+636,15-10-2024,Tablet,2,1090.64,Los Angeles,1093
+637,17-02-2024,Smartphone,1,174.12,Chicago,1037
+638,11-12-2024,Keyboard,4,353.65,Los Angeles,1002
+639,13-04-2024,Smartwatch,1,1060.36,San Francisco,1027
+640,10-09-2024,Tablet,3,98.15,New York City,1055
+641,04-03-2024,Laptop,1,740.16,Chicago,1089
+642,29-02-2024,Mouse,1,907.07,Los Angeles,1093
+643,11-09-2024,Laptop,4,911.18,Boston,1012
+644,11-01-2024,Smartphone,2,53.94,New York City,1076
+645,22-07-2024,Laptop,1,496.72,San Francisco,1065
+646,15-08-2024,Keyboard,2,962.01,Los Angeles,1036
+647,29-01-2024,Camera,3,240.52,San Francisco,1048
+648,26-09-2024,Printer,1,1049.22,San Francisco,1065
+649,09-10-2024,Mouse,4,1123.97,Chicago,1035
+650,28-07-2024,Laptop,3,1473.31,Chicago,1053
+651,23-12-2024,Laptop,3,330.57,Los Angeles,1025
+652,11-08-2024,Smartphone,4,1241.19,Boston,1074
+653,24-05-2024,Printer,1,790.04,Los Angeles,1071
+654,29-11-2024,Headphones,1,572.72,Boston,1039
+655,24-04-2024,Laptop,3,201.12,San Francisco,1042
+656,05-04-2024,Keyboard,1,1108.55,New York City,1021
+657,23-09-2024,Smartwatch,2,369.07,Los Angeles,1019
+658,16-10-2024,Mouse,4,569.7,Los Angeles,1007
+659,18-07-2024,Laptop,2,112.56,Boston,1028
+660,23-04-2024,Keyboard,1,1206.02,San Francisco,1039
+661,11-03-2024,Keyboard,3,1154.55,San Francisco,1089
+662,27-01-2024,Mouse,4,1105.75,Boston,1029
+663,29-06-2024,Headphones,1,463.18,San Francisco,1080
+664,01-06-2024,Keyboard,1,276.75,Chicago,1083
+665,19-07-2024,Smartwatch,3,963.58,New York City,1054
+666,18-11-2024,Keyboard,3,754.33,Los Angeles,1015
+667,18-04-2024,Keyboard,2,283.81,New York City,1045
+668,30-09-2024,Keyboard,4,1035.15,Los Angeles,1061
+669,02-05-2024,Camera,4,1486.87,Chicago,1006
+670,03-10-2024,Camera,3,1125.88,San Francisco,1079
+671,06-04-2024,Headphones,2,1115.18,Boston,1044
+672,24-07-2024,Laptop,4,1426.46,Chicago,1058
+673,23-07-2024,Keyboard,3,320.35,New York City,1055
+674,02-11-2024,Printer,1,857.01,Boston,1047
+675,06-11-2024,Laptop,4,1469.88,San Francisco,1026
+676,03-03-2024,Headphones,2,264.64,Chicago,1052
+677,04-03-2024,Monitor,2,1056.37,Boston,1086
+678,26-07-2024,Laptop,2,887,Chicago,1087
+679,11-02-2024,Laptop,1,887.99,Chicago,1072
+680,07-05-2024,Tablet,4,1052.55,San Francisco,1034
+681,05-01-2024,Smartphone,4,1395.83,Los Angeles,1050
+682,24-11-2024,Tablet,1,1178.22,Boston,1083
+683,07-07-2024,Smartwatch,4,103.08,San Francisco,1036
+684,11-10-2024,Camera,1,1282.04,Chicago,1080
+685,05-03-2024,Camera,1,353.8,San Francisco,1094
+686,09-11-2024,Smartphone,1,577.83,Los Angeles,1056
+687,06-12-2024,Mouse,2,703.36,Boston,1007
+688,22-06-2024,Mouse,4,731.74,Los Angeles,1078
+689,29-02-2024,Headphones,1,664.07,New York City,1094
+690,04-04-2024,Smartphone,4,1407.28,Boston,1093
+691,16-03-2024,Laptop,2,1064.91,Los Angeles,1019
+692,28-07-2024,Mouse,1,954.13,Chicago,1052
+693,07-10-2024,Keyboard,3,93.77,Boston,1011
+694,11-04-2024,Printer,2,1357.79,Boston,1048
+695,14-04-2024,Laptop,3,1365.9,San Francisco,1016
+696,25-05-2024,Smartwatch,4,1174.72,Chicago,1063
+697,01-10-2024,Keyboard,4,30.4,New York City,1041
+698,27-08-2024,Keyboard,2,104.77,Los Angeles,1093
+699,16-03-2024,Smartphone,4,353.33,San Francisco,1028
+700,22-02-2024,Headphones,3,214.4,Los Angeles,1018
+701,02-07-2024,Smartwatch,1,610.28,New York City,1010
+702,29-09-2024,Mouse,1,1385.48,New York City,1097
+703,30-12-2024,Smartphone,1,718.65,Boston,1049
+704,24-04-2024,Mouse,2,39.84,New York City,1070
+705,16-12-2024,Smartphone,4,438.46,Los Angeles,1057
+706,12-12-2024,Smartphone,3,86,Chicago,1033
+707,28-05-2024,Smartphone,4,73.71,Chicago,1019
+708,25-05-2024,Headphones,4,428.07,Boston,1049
+709,07-11-2024,Smartphone,4,427.91,Los Angeles,1087
+710,22-02-2024,Monitor,1,1184.95,Los Angeles,1009
+711,29-09-2024,Printer,3,1462.76,New York City,1031
+712,09-12-2024,Mouse,3,569.39,Los Angeles,1051
+713,18-07-2024,Laptop,4,654.75,San Francisco,1014
+714,22-01-2024,Tablet,1,1270.29,New York City,1083
+715,18-01-2024,Smartwatch,1,416.85,San Francisco,1002
+716,30-03-2024,Camera,3,251.45,Boston,1036
+717,02-06-2024,Headphones,1,1282.57,Chicago,1039
+718,23-08-2024,Laptop,1,88.82,Boston,1071
+719,19-09-2024,Keyboard,1,937.16,Chicago,1039
+720,04-10-2024,Monitor,2,851.75,Boston,1055
+721,24-02-2024,Camera,4,531.96,Los Angeles,1022
+722,26-06-2024,Tablet,3,486.48,San Francisco,1010
+723,09-05-2024,Laptop,3,1162.35,Chicago,1063
+724,13-11-2024,Camera,2,147.91,New York City,1007
+725,28-06-2024,Laptop,4,370.44,San Francisco,1092
+726,26-03-2024,Monitor,3,1104.02,New York City,1093
+727,16-04-2024,Tablet,1,831.51,San Francisco,1055
+728,28-06-2024,Keyboard,3,209.42,San Francisco,1059
+729,27-06-2024,Smartphone,1,1325.56,Boston,1009
+730,24-05-2024,Mouse,2,602.3,Chicago,1038
+731,21-06-2024,Keyboard,1,1245.25,Chicago,1027
+732,20-02-2024,Smartphone,3,1185.82,San Francisco,1048
+733,27-04-2024,Headphones,3,944.15,Los Angeles,1035
+734,21-01-2024,Printer,3,751.83,Los Angeles,1012
+735,19-06-2024,Smartwatch,2,1469.74,New York City,1095
+736,11-09-2024,Smartwatch,2,234.55,New York City,1035
+737,01-04-2024,Mouse,4,1093.23,Boston,1025
+738,29-01-2024,Tablet,3,302.96,San Francisco,1085
+739,17-01-2024,Monitor,1,520.63,New York City,1003
+740,06-12-2024,Tablet,2,476.87,New York City,1094
+741,16-01-2024,Monitor,3,1421.61,San Francisco,1081
+742,07-04-2024,Tablet,3,1451.69,Boston,1063
+743,03-08-2024,Printer,2,290.86,New York City,1037
+744,09-05-2024,Headphones,4,52.61,Boston,1087
+745,31-07-2024,Headphones,2,1085.61,Chicago,1086
+746,14-04-2024,Smartphone,2,638.63,Boston,1021
+747,15-12-2024,Camera,1,151.48,Los Angeles,1001
+748,26-12-2024,Headphones,1,1031.96,Los Angeles,1030
+749,27-07-2024,Headphones,4,826.76,Boston,1010
+750,13-07-2024,Keyboard,3,1471.16,Los Angeles,1091
+751,13-02-2024,Keyboard,2,356.57,Chicago,1045
+752,14-02-2024,Smartphone,4,617.89,San Francisco,1095
+753,19-03-2024,Camera,1,822.97,Los Angeles,1061
+754,24-11-2024,Mouse,2,1191.72,Los Angeles,1068
+755,25-03-2024,Keyboard,3,832.28,Boston,1063
+756,27-12-2024,Mouse,1,927.09,Chicago,1009
+757,17-07-2024,Laptop,1,354.7,San Francisco,1039
+758,10-01-2024,Keyboard,1,1273.44,Boston,1023
+759,30-05-2024,Printer,4,654.37,Boston,1098
+760,10-05-2024,Camera,3,228.62,Chicago,1043
+761,01-03-2024,Smartphone,2,1003,San Francisco,1059
+762,10-12-2024,Laptop,4,339.81,Chicago,1061
+763,29-08-2024,Camera,4,164.39,San Francisco,1086
+764,22-05-2024,Printer,4,1295.74,Chicago,1016
+765,22-01-2024,Camera,1,701.04,Boston,1064
+766,27-10-2024,Printer,3,1128.94,Boston,1094
+767,07-04-2024,Printer,4,450.07,New York City,1094
+768,10-06-2024,Mouse,2,1184.72,Los Angeles,1056
+769,07-02-2024,Tablet,3,185.67,Chicago,1054
+770,03-09-2024,Laptop,2,546.84,New York City,1052
+771,07-02-2024,Camera,3,1467.53,Los Angeles,1055
+772,30-04-2024,Monitor,2,1195.1,Chicago,1097
+773,21-09-2024,Laptop,1,755.94,San Francisco,1008
+774,13-02-2024,Tablet,4,522.87,Los Angeles,1021
+775,29-08-2024,Laptop,2,1310.76,Boston,1012
+776,06-07-2024,Headphones,3,826.37,New York City,1088
+777,18-06-2024,Monitor,4,1142.47,Los Angeles,1047
+778,23-04-2024,Tablet,4,1136.08,Los Angeles,1017
+779,02-09-2024,Mouse,3,46.56,Boston,1075
+780,31-03-2024,Camera,2,206.86,Chicago,1039
+781,12-10-2024,Smartwatch,1,996.25,San Francisco,1016
+782,23-04-2024,Tablet,1,259.2,Boston,1014
+783,04-04-2024,Smartphone,2,398.13,San Francisco,1014
+784,07-05-2024,Camera,4,1421.02,Chicago,1078
+785,16-02-2024,Tablet,4,849.07,Los Angeles,1062
+786,09-05-2024,Headphones,4,1131.08,San Francisco,1038
+787,28-01-2024,Smartwatch,4,845.81,New York City,1012
+788,05-05-2024,Headphones,2,837.72,New York City,1080
+789,01-02-2024,Smartwatch,4,159.34,Boston,1031
+790,12-09-2024,Smartphone,3,528.62,Chicago,1008
+791,24-08-2024,Camera,4,438,Boston,1039
+792,25-04-2024,Mouse,1,598.28,Boston,1019
+793,31-10-2024,Headphones,4,1201.55,Boston,1089
+794,10-07-2024,Headphones,2,570.46,New York City,1090
+795,08-01-2024,Printer,1,688.51,New York City,1084
+796,11-05-2024,Smartwatch,2,608.12,Boston,1081
+797,31-03-2024,Keyboard,2,158.24,New York City,1076
+798,26-03-2024,Camera,1,672.79,Chicago,1079
+799,30-11-2024,Smartwatch,2,309.5,Boston,1072
+800,06-09-2024,Printer,2,296.35,New York City,1062
+801,27-12-2024,Laptop,4,159.17,San Francisco,1075
+802,16-11-2024,Smartwatch,3,547.87,Boston,1043
+803,05-05-2024,Mouse,2,1141.07,Boston,1037
+804,26-07-2024,Camera,2,429.13,Chicago,1082
+805,19-01-2024,Printer,2,482.28,Los Angeles,1059
+806,02-03-2024,Laptop,4,971.16,Los Angeles,1070
+807,09-04-2024,Monitor,3,309.84,Chicago,1098
+808,21-09-2024,Printer,1,1347.5,Chicago,1047
+809,16-03-2024,Monitor,4,789.88,Chicago,1017
+810,29-12-2024,Camera,4,682.45,Los Angeles,1015
+811,09-12-2024,Headphones,3,845.57,Chicago,1054
+812,03-02-2024,Printer,3,265.73,New York City,1038
+813,18-08-2024,Smartphone,4,927.94,Boston,1067
+814,23-02-2024,Monitor,1,557.39,Boston,1058
+815,24-07-2024,Mouse,4,1347.84,San Francisco,1088
+816,25-02-2024,Smartphone,3,269.9,San Francisco,1095
+817,20-07-2024,Tablet,1,770.44,Boston,1061
+818,06-09-2024,Tablet,3,905.21,New York City,1012
+819,18-11-2024,Laptop,1,69.41,Los Angeles,1080
+820,01-02-2024,Headphones,2,558.27,Los Angeles,1005
+821,15-04-2024,Camera,3,1104.3,New York City,1082
+822,04-04-2024,Printer,3,1234.16,Los Angeles,1076
+823,27-10-2024,Keyboard,4,483.48,Chicago,1059
+824,25-10-2024,Mouse,3,1201.92,Boston,1089
+825,15-04-2024,Monitor,3,1452.28,Boston,1013
+826,14-06-2024,Camera,2,1288.17,New York City,1094
+827,04-07-2024,Smartphone,3,194.11,Los Angeles,1053
+828,15-06-2024,Tablet,2,1114.8,San Francisco,1003
+829,20-09-2024,Mouse,2,493.11,San Francisco,1038
+830,10-01-2024,Keyboard,2,1482.86,Los Angeles,1071
+831,16-01-2024,Printer,2,738.33,San Francisco,1024
+832,07-11-2024,Laptop,1,201.2,New York City,1076
+833,04-12-2024,Keyboard,4,1093.27,New York City,1031
+834,09-10-2024,Mouse,1,498.06,Los Angeles,1058
+835,23-04-2024,Keyboard,3,1495.68,San Francisco,1062
+836,14-09-2024,Mouse,1,1470.08,New York City,1037
+837,13-03-2024,Mouse,1,991.08,New York City,1091
+838,29-06-2024,Smartwatch,3,212.14,Chicago,1052
+839,15-01-2024,Monitor,3,1036.55,Chicago,1093
+840,26-11-2024,Tablet,3,157.69,New York City,1066
+841,17-05-2024,Smartwatch,1,63.46,Los Angeles,1027
+842,16-07-2024,Printer,1,1237.98,Boston,1002
+843,10-08-2024,Smartwatch,3,330.43,Boston,1097
+844,06-03-2024,Headphones,4,580.96,New York City,1079
+845,01-03-2024,Headphones,4,1460.72,New York City,1021
+846,12-05-2024,Tablet,2,518.52,New York City,1095
+847,04-04-2024,Keyboard,3,458.8,Los Angeles,1037
+848,09-05-2024,Monitor,2,1378.95,Chicago,1071
+849,16-08-2024,Tablet,4,183.91,New York City,1071
+850,31-05-2024,Mouse,2,1144.18,New York City,1061
+851,25-10-2024,Smartphone,3,1482.34,San Francisco,1056
+852,13-06-2024,Monitor,3,1353.92,Los Angeles,1005
+853,24-12-2024,Monitor,3,984.47,New York City,1077
+854,01-02-2024,Mouse,1,484.81,San Francisco,1031
+855,13-11-2024,Mouse,2,396.4,Boston,1098
+856,20-02-2024,Laptop,4,1232.5,New York City,1009
+857,09-05-2024,Tablet,4,1322.14,New York City,1002
+858,03-06-2024,Mouse,4,797.64,San Francisco,1058
+859,01-06-2024,Headphones,1,381.62,Los Angeles,1075
+860,19-08-2024,Printer,1,187.16,New York City,1048
+861,16-01-2024,Smartphone,3,149.03,Boston,1058
+862,06-04-2024,Tablet,4,1084.23,New York City,1030
+863,26-03-2024,Camera,1,641.78,Boston,1092
+864,28-10-2024,Headphones,3,1359.93,Chicago,1068
+865,23-01-2024,Keyboard,4,1114.71,Chicago,1061
+866,23-03-2024,Mouse,2,303.07,Boston,1051
+867,14-11-2024,Camera,3,928.39,Los Angeles,1088
+868,25-02-2024,Mouse,1,664.55,New York City,1040
+869,18-05-2024,Monitor,1,874.33,New York City,1030
+870,12-11-2024,Headphones,3,1112.34,Chicago,1084
+871,01-08-2024,Monitor,3,1213.17,Boston,1083
+872,13-08-2024,Laptop,1,1268.73,New York City,1021
+873,12-03-2024,Monitor,2,395.88,New York City,1003
+874,14-03-2024,Laptop,4,66.05,Los Angeles,1012
+875,17-07-2024,Laptop,2,1114.16,San Francisco,1044
+876,31-07-2024,Camera,3,177.39,Chicago,1041
+877,12-03-2024,Mouse,2,486.08,Chicago,1048
+878,01-06-2024,Keyboard,1,25.65,San Francisco,1019
+879,21-07-2024,Monitor,3,1028.87,New York City,1076
+880,12-02-2024,Headphones,4,267.36,Los Angeles,1080
+881,05-09-2024,Laptop,1,989.82,Los Angeles,1053
+882,02-06-2024,Mouse,1,1487.78,Chicago,1035
+883,22-10-2024,Smartphone,4,127.55,Los Angeles,1096
+884,17-10-2024,Tablet,4,134.08,San Francisco,1000
+885,18-03-2024,Camera,2,523.76,New York City,1014
+886,04-05-2024,Keyboard,3,1302.25,San Francisco,1076
+887,24-06-2024,Smartwatch,4,338.98,Boston,1016
+888,14-08-2024,Camera,4,553.36,Chicago,1023
+889,26-09-2024,Smartphone,3,121.39,Los Angeles,1057
+890,27-01-2024,Tablet,4,1149.47,Boston,1071
+891,25-08-2024,Smartphone,4,624.29,Los Angeles,1090
+892,01-02-2024,Monitor,2,1143.69,New York City,1022
+893,20-04-2024,Laptop,1,1357.34,New York City,1045
+894,04-04-2024,Keyboard,1,364.49,New York City,1071
+895,13-09-2024,Printer,1,1214.95,Los Angeles,1007
+896,24-01-2024,Laptop,1,107.46,Boston,1058
+897,27-09-2024,Printer,4,1350.29,New York City,1089
+898,18-03-2024,Tablet,3,983.14,Boston,1058
+899,13-07-2024,Mouse,3,1313.86,Los Angeles,1012
+900,29-07-2024,Smartwatch,2,20.28,Boston,1038
+901,20-03-2024,Headphones,2,270.24,Los Angeles,1027
+902,15-10-2024,Laptop,4,596.84,Los Angeles,1088
+903,23-10-2024,Keyboard,3,581.66,Chicago,1060
+904,24-04-2024,Smartphone,3,355.56,Los Angeles,1015
+905,23-11-2024,Keyboard,1,584.79,Los Angeles,1001
+906,27-11-2024,Tablet,4,210.7,San Francisco,1081
+907,13-12-2024,Printer,4,630.89,New York City,1016
+908,11-09-2024,Smartphone,1,1207.48,Chicago,1029
+909,22-07-2024,Headphones,4,729.02,Chicago,1012
+910,21-01-2024,Headphones,4,46.64,Chicago,1095
+911,22-03-2024,Laptop,2,643.74,San Francisco,1092
+912,28-01-2024,Tablet,3,60.22,Los Angeles,1093
+913,24-03-2024,Mouse,4,1450.04,New York City,1081
+914,07-02-2024,Tablet,2,208.63,Boston,1012
+915,28-01-2024,Printer,3,1067.38,Los Angeles,1042
+916,06-04-2024,Keyboard,1,1459.71,San Francisco,1084
+917,13-12-2024,Headphones,2,1242.54,Los Angeles,1093
+918,04-03-2024,Keyboard,2,1054.99,Los Angeles,1020
+919,15-12-2024,Keyboard,3,1262.4,San Francisco,1054
+920,03-09-2024,Keyboard,1,1473.06,Chicago,1080
+921,07-04-2024,Headphones,2,939.59,Chicago,1039
+922,11-03-2024,Camera,4,847.59,New York City,1082
+923,12-12-2024,Monitor,4,949.79,New York City,1014
+924,17-07-2024,Printer,4,808.36,Chicago,1072
+925,01-12-2024,Camera,1,959.93,Boston,1051
+926,06-10-2024,Printer,2,685.77,Los Angeles,1073
+927,21-02-2024,Smartphone,4,343.3,Boston,1094
+928,29-08-2024,Tablet,1,197.97,Los Angeles,1052
+929,01-06-2024,Tablet,4,121.14,Chicago,1086
+930,17-06-2024,Smartwatch,3,409.71,New York City,1051
+931,19-12-2024,Tablet,2,88.26,New York City,1029
+932,09-02-2024,Headphones,2,859.41,Boston,1032
+933,22-01-2024,Mouse,1,440.07,New York City,1056
+934,25-11-2024,Laptop,1,1240.31,Chicago,1051
+935,19-01-2024,Smartwatch,2,129.88,Boston,1008
+936,05-05-2024,Laptop,4,355,Los Angeles,1053
+937,04-07-2024,Printer,4,1100.76,New York City,1000
+938,16-06-2024,Laptop,3,906.24,San Francisco,1043
+939,19-01-2024,Laptop,4,115.45,New York City,1098
+940,25-07-2024,Smartwatch,1,1318.31,Los Angeles,1074
+941,15-03-2024,Smartphone,1,1318.35,Boston,1097
+942,18-04-2024,Keyboard,4,509,Los Angeles,1079
+943,07-11-2024,Tablet,1,523.8,San Francisco,1008
+944,12-11-2024,Tablet,2,1483.76,Chicago,1031
+945,06-11-2024,Headphones,2,946.74,New York City,1014
+946,24-03-2024,Smartwatch,4,806.35,Boston,1011
+947,20-02-2024,Headphones,2,1260.47,Chicago,1096
+948,25-12-2024,Mouse,2,442.23,Los Angeles,1077
+949,21-03-2024,Mouse,3,655.19,Boston,1056
+950,24-06-2024,Headphones,3,416.31,Chicago,1007
+951,26-01-2024,Smartwatch,2,1187.96,Boston,1071
+952,30-06-2024,Headphones,4,868.56,San Francisco,1026
+953,21-01-2024,Tablet,3,995.06,San Francisco,1061
+954,11-12-2024,Camera,1,393.41,New York City,1011
+955,02-08-2024,Monitor,1,345.93,New York City,1064
+956,29-11-2024,Laptop,1,742.79,San Francisco,1041
+957,01-09-2024,Monitor,4,1111.6,Boston,1061
+958,08-02-2024,Smartwatch,2,797.35,San Francisco,1010
+959,28-11-2024,Monitor,1,68.32,New York City,1042
+960,15-11-2024,Mouse,4,1305.46,San Francisco,1094
+961,02-08-2024,Printer,3,115.74,San Francisco,1016
+962,19-08-2024,Laptop,2,1434.62,Boston,1096
+963,23-12-2024,Keyboard,3,57.21,Chicago,1031
+964,24-10-2024,Smartwatch,4,1047.79,New York City,1092
+965,15-12-2024,Laptop,1,141.67,Boston,1084
+966,15-03-2024,Monitor,1,1367.8,San Francisco,1084
+967,02-05-2024,Mouse,4,707.36,San Francisco,1039
+968,27-09-2024,Smartphone,1,223.54,Chicago,1022
+969,18-06-2024,Camera,2,524.41,New York City,1055
+970,05-04-2024,Keyboard,4,263.94,New York City,1005
+971,25-10-2024,Camera,3,272.46,Los Angeles,1085
+972,26-07-2024,Laptop,4,1423.2,New York City,1049
+973,05-03-2024,Mouse,2,678.96,Chicago,1036
+974,13-07-2024,Mouse,2,1187.43,Los Angeles,1063
+975,19-09-2024,Monitor,4,966.62,Los Angeles,1053
+976,26-05-2024,Tablet,4,1021.11,San Francisco,1071
+977,28-05-2024,Monitor,1,214.91,San Francisco,1048
+978,17-07-2024,Tablet,2,366.59,New York City,1098
+979,29-12-2024,Tablet,4,1184.39,Los Angeles,1010
+980,11-02-2024,Keyboard,4,1456.73,San Francisco,1087
+981,09-12-2024,Monitor,2,408.76,Chicago,1048
+982,05-12-2024,Smartphone,4,421.92,San Francisco,1020
+983,29-11-2024,Headphones,1,719.89,San Francisco,1065
+984,07-11-2024,Headphones,2,1476.08,Los Angeles,1062
+985,18-05-2024,Monitor,1,418.06,Los Angeles,1082
+986,21-06-2024,Monitor,1,622.32,Boston,1027
+987,11-04-2024,Camera,1,1339.39,Chicago,1016
+988,03-08-2024,Keyboard,1,24.32,Los Angeles,1005
+989,16-01-2024,Monitor,2,78.85,New York City,1018
+990,03-10-2024,Camera,1,914.03,Chicago,1055
+991,25-08-2024,Tablet,1,1362.92,Chicago,1027
+992,09-05-2024,Mouse,4,373.51,Los Angeles,1065
+993,19-01-2024,Mouse,2,715.07,Chicago,1037
+994,04-02-2024,Tablet,2,686.69,Los Angeles,1036
+995,05-08-2024,Smartwatch,3,720,San Francisco,1067
+996,12-09-2024,Camera,2,941.33,Boston,1085
+997,26-08-2024,Camera,2,715.22,San Francisco,1089
+998,13-07-2024,Tablet,3,682.25,Los Angeles,1048
+999,04-07-2024,Smartphone,2,721.95,Los Angeles,1042
+1000,24-07-2024,Printer,2,894.48,San Francisco,1035
